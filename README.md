@@ -1,6 +1,6 @@
 # Hotel Taj 
 
-Hotel Taj is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/Bhushan1137/Hotel-Taj.git)
+Hotel Taj is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: (https://github.com/Vikask2612/Hotel_Booking_website_)
 
 ## Key Features
 

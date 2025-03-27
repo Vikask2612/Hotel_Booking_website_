@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bhushan1137/Hotel-Taj.git
+   git clone https://github.com/Vikask2612/Hotel_Booking_website_
    ```
 
 2. Navigate to the project directory:
